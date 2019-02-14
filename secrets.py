@@ -1,0 +1,5 @@
+consumer_token='2qhjD55Se9NGKRTBuZyb6Ki0Z'
+consumer_secret= 'KooojZyWYxp7iu6gerfpwyJB1xbOVZHxRXYcO8L7VsF0CqQPAt'
+access_token='352599159-PO9igRuIq6bWZgYcLU9AAeONtQarHyswa9SsW3hr'
+access_token_secret='qhPSxUDrBIq8AQu4nTeiXBlkC5rthIlFcqGOYfOEvkGrX'
+plotly_api_key = 'sLd4OQ9PvgnKyFNkArdd'
